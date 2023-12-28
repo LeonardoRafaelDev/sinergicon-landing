@@ -2,13 +2,13 @@ export const ourServicesList = [
   {
     title: 'Contabilidade com foco em gestão',
     content:
-      'Escrituração contábil com foco na praticidade, tanto no input quanto no outout das informações. Muito mais do que cumprir obrigações burocráticas, nosso objetivo é preparar todas as demonstrações contábeis',
+      'Escrituração contábil com foco na praticidade, tanto no input quanto no output das informações. Muito mais do que cumprir obrigações burocráticas, nosso objetivo é produzir informações que geram valor.',
     rgbColor: '61, 169, 252',
   },
   {
     title: 'Contabilidade tributária',
     content:
-      'Apuração mensal dos tributos referentes a atividade e regime tributário da empresa, bem como escrituração de todas as movimentações de entradas, saídas, serviços prestados e tomados. Gestão e entrega das obrigações acessórias frente a Receita Federal',
+      'Apuração mensal dos tributos referentes a atividade e regime tributário da empresa, bem como escrituração de todas as movimentações de entradas, saídas, serviços prestados e tomados. Gestão de tributos para garantir as melhores estratégias fiscais.',
     rgbColor: '252, 130, 61',
   },
   {
@@ -20,7 +20,7 @@ export const ourServicesList = [
   {
     title: 'Planejamento Financeiro',
     content:
-      'A proposta da Sinergicon é aliar a contabilidade com a gestão financeira, deste modo, buscamos trabalhar de maneira que possamos oferecer ao cliente a sensação de estar no controle de suas informações como um todo, demonstrando os diversos dados.',
+      'A proposta da Sinergicon é aliar a contabilidade com a gestão financeira, deste modo, buscamos trabalhar de maneira que possamos oferecer ao cliente a sensação de estar no controle de suas informações como um todo, e se sentir seguro ao tomar decisões.',
     rgbColor: '59, 232, 118',
   },
   {
